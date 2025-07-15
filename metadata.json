@@ -1,0 +1,5 @@
+{
+  "name": "SmartPy Contract Generator",
+  "description": "Generate SmartPy contracts from natural language descriptions using AI. Describe your contract logic, and the AI will generate the corresponding Python code for a SmartPy contract.",
+  "requestFramePermissions": []
+}
